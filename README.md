@@ -1,2 +1,4 @@
-Checkout the deployed app here:
-https://6448d441095124220fae1a1e--chic-marzipan-155744.netlify.app/
+## Deployed app at (https://alish-gpt3.netlify.app/)
+
+
+<img width="1470" alt="Screenshot 2023-08-28 at 18 50 27" src="https://github.com/AlishShresth/ReactApp_gp3/assets/85062379/b34e88f6-f29c-485e-a6df-f2457a20be61">
